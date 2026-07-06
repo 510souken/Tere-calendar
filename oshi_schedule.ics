@@ -8,16 +8,16 @@ BEGIN:VEVENT
 SUMMARY:「週刊少年マガジン」池田瑛紗
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DESCRIPTION:「週刊少年マガジン」池田瑛紗\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107080?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=01
-URL:https://www.nogizaka46.com/s/n46/media/detail/107080?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=01
+DESCRIPTION:「週刊少年マガジン」池田瑛紗\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107080?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=01
+URL:https://www.nogizaka46.com/s/n46/media/detail/107080?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」池田瑛紗、冨里奈央
 DTSTART;TZID=Asia/Tokyo:20260701T190000
 DTEND;TZID=Asia/Tokyo:20260701T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」池田瑛紗、冨里奈央
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107126?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=01
-URL:https://www.nogizaka46.com/s/n46/media/detail/107126?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=01
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107126?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=01
+URL:https://www.nogizaka46.com/s/n46/media/detail/107126?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -27,8 +27,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=03
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=03
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=03
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=03
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 北海道公演」
@@ -59,8 +59,8 @@ DESCRIPTION:「真夏の全国ツアー2026 北海道公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106703?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=04
-URL:https://www.nogizaka46.com/s/n46/media/detail/106703?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=04
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106703?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=04
+URL:https://www.nogizaka46.com/s/n46/media/detail/106703?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 北海道公演」
@@ -91,8 +91,8 @@ DESCRIPTION:「真夏の全国ツアー2026 北海道公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106703?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=05
-URL:https://www.nogizaka46.com/s/n46/media/detail/106703?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=05
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106703?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=05
+URL:https://www.nogizaka46.com/s/n46/media/detail/106703?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=05
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -100,8 +100,8 @@ DTSTART;TZID=Asia/Tokyo:20260706T001500
 DTEND;TZID=Asia/Tokyo:20260706T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=05
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=05
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=05
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=05
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -109,16 +109,16 @@ DTSTART;TZID=Asia/Tokyo:20260708T000000
 DTEND;TZID=Asia/Tokyo:20260708T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=07
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=07
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=07
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」
 DTSTART;TZID=Asia/Tokyo:20260708T190000
 DTEND;TZID=Asia/Tokyo:20260708T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106500?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=08
-URL:https://www.nogizaka46.com/s/n46/media/detail/106500?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=08
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106500?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=08
+URL:https://www.nogizaka46.com/s/n46/media/detail/106500?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=08
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -128,8 +128,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=10
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=10
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=10
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 広島公演」
@@ -160,8 +160,8 @@ DESCRIPTION:「真夏の全国ツアー2026 広島公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106704?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=11
-URL:https://www.nogizaka46.com/s/n46/media/detail/106704?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=11
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106704?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=11
+URL:https://www.nogizaka46.com/s/n46/media/detail/106704?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 広島公演」
@@ -192,27 +192,8 @@ DESCRIPTION:「真夏の全国ツアー2026 広島公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106704?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=12
-URL:https://www.nogizaka46.com/s/n46/media/detail/106704?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHK AM「らじらー！サンデー」
-DTSTART;TZID=Asia/Tokyo:20260712T200500
-DTEND;TZID=Asia/Tokyo:20260712T225500
-DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：川﨑桜
-隔週偶数週日曜日（第二週、第四週）：五百城茉央
-20時台、21時台前半ゲストメンバー：
-21時台後半、22時台ゲストメンバー：
-
-※番組の途中でニュース番組の放送が入ります。
-※番組の放送日などは予告なく変更される場合があります。 また放送しない地域や、一部地域では放送時間が異なることがございますので、予めご了承ください。
-
-番組公式サイト
-https://www.nhk.or.jp/radirer/
-
-番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=12
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=12
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106704?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=12
+URL:https://www.nogizaka46.com/s/n46/media/detail/106704?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -220,8 +201,8 @@ DTSTART;TZID=Asia/Tokyo:20260713T001500
 DTEND;TZID=Asia/Tokyo:20260713T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=12
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=12
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=12
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -229,8 +210,8 @@ DTSTART;TZID=Asia/Tokyo:20260715T000000
 DTEND;TZID=Asia/Tokyo:20260715T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=14
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=14
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=14
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 大阪公演」
@@ -261,8 +242,8 @@ DESCRIPTION:「真夏の全国ツアー2026 大阪公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106705?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=15
-URL:https://www.nogizaka46.com/s/n46/media/detail/106705?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=15
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106705?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=15
+URL:https://www.nogizaka46.com/s/n46/media/detail/106705?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 大阪公演」
@@ -293,8 +274,8 @@ DESCRIPTION:「真夏の全国ツアー2026 大阪公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106705?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=16
-URL:https://www.nogizaka46.com/s/n46/media/detail/106705?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=16
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106705?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=16
+URL:https://www.nogizaka46.com/s/n46/media/detail/106705?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -304,8 +285,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=17
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=17
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=17
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -323,8 +304,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=19
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=19
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=19
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -332,8 +313,8 @@ DTSTART;TZID=Asia/Tokyo:20260720T001500
 DTEND;TZID=Asia/Tokyo:20260720T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=19
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=19
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=19
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -341,32 +322,32 @@ DTSTART;TZID=Asia/Tokyo:20260722T000000
 DTEND;TZID=Asia/Tokyo:20260722T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=21
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=21
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=21
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:42ndシングル「是非に及ばず」
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 DESCRIPTION:42ndシングル「是非に及ばず」
-https://www.nogizaka46.com/s/n46/page/42nd_single\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107048?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=22
-URL:https://www.nogizaka46.com/s/n46/media/detail/107048?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=22
+https://www.nogizaka46.com/s/n46/page/42nd_single\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107048?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=22
+URL:https://www.nogizaka46.com/s/n46/media/detail/107048?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」
 DTSTART;TZID=Asia/Tokyo:20260722T190000
 DTEND;TZID=Asia/Tokyo:20260722T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=22
-URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=22
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=22
+URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「アップトゥボーイ」森平麗心、池田瑛紗、田村真佑
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DESCRIPTION:「アップトゥボーイ」森平麗心、池田瑛紗、田村真佑
-https://utb.wanibooks-newscrunch.com/\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107100?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=23
-URL:https://www.nogizaka46.com/s/n46/media/detail/107100?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=23
+https://utb.wanibooks-newscrunch.com/\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107100?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=23
+URL:https://www.nogizaka46.com/s/n46/media/detail/107100?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -376,8 +357,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=24
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=24
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=24
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=24
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 宮城公演」
@@ -408,8 +389,8 @@ DESCRIPTION:「真夏の全国ツアー2026 宮城公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106706?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=25
-URL:https://www.nogizaka46.com/s/n46/media/detail/106706?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=25
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106706?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=25
+URL:https://www.nogizaka46.com/s/n46/media/detail/106706?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 宮城公演」
@@ -440,8 +421,8 @@ DESCRIPTION:「真夏の全国ツアー2026 宮城公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106706?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=26
-URL:https://www.nogizaka46.com/s/n46/media/detail/106706?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=26
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106706?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=26
+URL:https://www.nogizaka46.com/s/n46/media/detail/106706?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -459,8 +440,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=26
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=26
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=26
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -468,8 +449,8 @@ DTSTART;TZID=Asia/Tokyo:20260727T001500
 DTEND;TZID=Asia/Tokyo:20260727T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=26
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=26
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=26
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -477,16 +458,16 @@ DTSTART;TZID=Asia/Tokyo:20260729T000000
 DTEND;TZID=Asia/Tokyo:20260729T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=28
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=28
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=28
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」
 DTSTART;TZID=Asia/Tokyo:20260729T190000
 DTEND;TZID=Asia/Tokyo:20260729T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=29
-URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=29
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=29
+URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -496,8 +477,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=31
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0304&pri1=202607&wd00=2026&wd01=07&wd02=31
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=31
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202607&wd00=2026&wd01=07&wd02=31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -515,8 +496,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=02
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=02
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=02
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -524,8 +505,8 @@ DTSTART;TZID=Asia/Tokyo:20260803T001500
 DTEND;TZID=Asia/Tokyo:20260803T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=02
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=02
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=02
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -533,16 +514,16 @@ DTSTART;TZID=Asia/Tokyo:20260805T000000
 DTEND;TZID=Asia/Tokyo:20260805T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=04
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=04
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=04
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」
 DTSTART;TZID=Asia/Tokyo:20260805T190000
 DTEND;TZID=Asia/Tokyo:20260805T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=05
-URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=05
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=05
+URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=05
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -552,8 +533,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=07
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=07
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=07
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 福岡公演」
@@ -584,8 +565,8 @@ DESCRIPTION:「真夏の全国ツアー2026 福岡公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106707?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=08
-URL:https://www.nogizaka46.com/s/n46/media/detail/106707?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=08
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106707?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=08
+URL:https://www.nogizaka46.com/s/n46/media/detail/106707?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=08
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 福岡公演」
@@ -616,8 +597,8 @@ DESCRIPTION:「真夏の全国ツアー2026 福岡公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106707?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=09
-URL:https://www.nogizaka46.com/s/n46/media/detail/106707?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=09
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106707?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=09
+URL:https://www.nogizaka46.com/s/n46/media/detail/106707?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=09
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -635,8 +616,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=09
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=09
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=09
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=09
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -644,8 +625,8 @@ DTSTART;TZID=Asia/Tokyo:20260810T001500
 DTEND;TZID=Asia/Tokyo:20260810T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=09
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=09
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=09
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=09
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -653,16 +634,16 @@ DTSTART;TZID=Asia/Tokyo:20260812T000000
 DTEND;TZID=Asia/Tokyo:20260812T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=11
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=11
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=11
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」
 DTSTART;TZID=Asia/Tokyo:20260812T190000
 DTEND;TZID=Asia/Tokyo:20260812T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=12
-URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=12
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=12
+URL:https://www.nogizaka46.com/s/n46/media/detail/107116?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -672,8 +653,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=14
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=14
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=14
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -691,8 +672,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=16
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=16
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=16
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -700,8 +681,8 @@ DTSTART;TZID=Asia/Tokyo:20260817T001500
 DTEND;TZID=Asia/Tokyo:20260817T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=16
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=16
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=16
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -709,8 +690,8 @@ DTSTART;TZID=Asia/Tokyo:20260819T000000
 DTEND;TZID=Asia/Tokyo:20260819T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=18
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=18
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=18
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 東京公演」
@@ -741,8 +722,8 @@ DESCRIPTION:「真夏の全国ツアー2026 東京公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=20
-URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=20
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=20
+URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 東京公演」
@@ -773,8 +754,8 @@ DESCRIPTION:「真夏の全国ツアー2026 東京公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=21
-URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=21
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=21
+URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -784,8 +765,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=21
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=21
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=21
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 東京公演」
@@ -816,8 +797,8 @@ DESCRIPTION:「真夏の全国ツアー2026 東京公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=22
-URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=22
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=22
+URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:「真夏の全国ツアー2026 東京公演」
@@ -848,8 +829,8 @@ DESCRIPTION:「真夏の全国ツアー2026 東京公演」
 8月8日(土)・9日(日)
 
 ［東京］明治神宮野球場
-8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=23
-URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=23
+8月20日(木)・21日(金)・22日(土)・23日(日)\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=23
+URL:https://www.nogizaka46.com/s/n46/media/detail/106708?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -867,8 +848,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=23
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=23
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=23
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -876,8 +857,8 @@ DTSTART;TZID=Asia/Tokyo:20260824T001500
 DTEND;TZID=Asia/Tokyo:20260824T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=23
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=23
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=23
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
@@ -885,16 +866,16 @@ DTSTART;TZID=Asia/Tokyo:20260826T000000
 DTEND;TZID=Asia/Tokyo:20260826T003000
 DESCRIPTION:TOKYO MX「小峠英二のなんて美だ！」池田瑛紗
 番組公式サイトhttp://nantebi-da.jp/
-番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=25
-URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=25
+番組公式Xhttps://twitter.com/nantebi_da\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=25
+URL:https://www.nogizaka46.com/s/n46/media/detail/105027?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SHOWROOM「猫舌SHOWROOM」
 DTSTART;TZID=Asia/Tokyo:20260826T190000
 DTEND;TZID=Asia/Tokyo:20260826T210000
 DESCRIPTION:SHOWROOM「猫舌SHOWROOM」
-https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107117?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=26
-URL:https://www.nogizaka46.com/s/n46/media/detail/107117?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=26
+https://www.showroom-live.com/nekojita\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107117?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=26
+URL:https://www.nogizaka46.com/s/n46/media/detail/107117?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
@@ -904,8 +885,8 @@ DESCRIPTION:J-WAVE「SYNCREATE（THE REVERSE）」池田瑛紗
 J-WAVE「SYNCREATE」内「THE REVERSE」
 池田瑛紗の出演は、毎週金曜日の21:30頃～21:45頃です。
 
-\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=28
-URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=28
+\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=28
+URL:https://www.nogizaka46.com/s/n46/media/detail/106841?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHK AM「らじらー！サンデー」
@@ -923,8 +904,8 @@ DESCRIPTION:隔週奇数週日曜日（第一週、第三週、第五週）：�
 https://www.nhk.or.jp/radirer/
 
 番組公式X
-https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=30
-URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=30
+https://twitter.com/nhk_radirer\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=30
+URL:https://www.nogizaka46.com/s/n46/media/detail/106124?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:テレビ東京系「乃木坂工事中」
@@ -932,7 +913,7 @@ DTSTART;TZID=Asia/Tokyo:20260831T001500
 DTEND;TZID=Asia/Tokyo:20260831T004500
 DESCRIPTION:テレビ東京系「乃木坂工事中」毎週日曜日 24時15分～24時45分
 番組公式サイトhttps://tv-aichi.co.jp/nogi-kou/番組公式Xhttps://x.com/nogikmax
-放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=30
-URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=0311&pri1=202608&wd00=2026&wd01=08&wd02=30
+放送終了後、YouTubeチャンネル「乃木坂配信中」にて毎話配信！チャンネルはこちらからhttps://www.youtube.com/c/nogizakahaishinchu\n\n▼詳細リンク\nhttps://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=30
+URL:https://www.nogizaka46.com/s/n46/media/detail/107110?ima=5428&pri1=202608&wd00=2026&wd01=08&wd02=30
 END:VEVENT
 END:VCALENDAR
